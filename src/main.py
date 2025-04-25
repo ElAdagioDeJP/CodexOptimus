@@ -11,5 +11,4 @@ def main():
     assignments, cost = hungarian.solve()
     print(f"Asignaciones: {assignments}, Costo Total: {cost}")
 
-if __name__ == "__main__":
-    main()
+main()
