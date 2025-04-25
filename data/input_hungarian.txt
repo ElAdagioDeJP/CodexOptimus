@@ -1,0 +1,5 @@
+# Ejemplo para 3 programadores y 4 tareas
+3 4
+10 20 15 25
+12 18 20 22
+14 16 18 20

@@ -1,0 +1,9 @@
+# Ejemplo para 2 servidores y 3 solicitudes
+2 3
+# Matriz de tiempos de procesamiento (C)
+5 8 10
+7 6 9
+# Capacidades de los servidores (ej: tareas que pueden manejar)
+4 3
+# Prioridades de las solicitudes (mayor valor = más urgente)
+3 1 2
